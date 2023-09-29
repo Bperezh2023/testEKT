@@ -1,0 +1,88 @@
+{
+  "items": [
+
+    {
+      "pedido": "7894",
+      "nit": "1562",
+      "estado": "Activo",
+      "nombrecompleto": "Bryan Alexander Perez",
+      "dpi": "3042689123",
+      "tipocliente": "Particular",
+      "departamento": "Guatemala",
+      "municipio": "Villa Nueva",
+      "direccion": "7ma calle B 16-52",
+      "telefono": "41066398",
+      "correo": "bryan.perez@gmail.com",
+      "fecha1": "18/09/2022",
+      "fecha2": "25/09/2022",
+      "NameDoc": "Info_Abner_Perez",
+      "NameDoc2": "RTU_Abner_Perez",
+      "numerope": "1554",
+      "NameDoc3": "DPI_Abner_Perez",
+      "NameDoc4": "Carta_Conciliación_APerez"
+    },
+    {
+      "pedido": "1223",
+      "estado": "Inactivo",
+      "nit": "1562",
+      "nombrecompleto": "Bryan Alexander Perez",
+      "dpi": "3042689170101",
+      "tipocliente": "Empresa",
+      "departamento": "Guatemala",
+      "municipio": "Villa Nueva",
+      "direccion": "7ma calle B 16-52",
+      "telefono": "41066398",
+      "correo": "bryan.perez@gmail.com",
+      "fecha1": "18/09/2022",
+      "fecha2": "25/09/2022",
+      "NameDoc": "RTU_Abner_Perez",
+      "NameDoc2": "RTU_Abner_Perez",
+      "numerope": "1554",
+      "NameDoc3": "DPI_Abner_Perez",
+      "NameDoc4": "Carta_Conciliación_APerez"
+    },
+    {
+      "pedido": "5412",
+      "estado": "Activo",
+      "nit": "4512",
+      "nombrecompleto": "Abner Francisco Perez",
+      "dpi": "3042689170114",
+      "tipocliente": "Particular",
+      "departamento": "Guatemala",
+      "municipio": "Villa Nueva",
+      "direccion": "7ma calle B 16-52",
+      "telefono": "41066398",
+      "correo": "bryan.perez@gmail.com",
+      "fecha1": "18/09/2022",
+      "fecha2": "25/09/2022",
+      "NameDoc": "DPI_Abner_Perez",
+      "NameDoc2": "RTU_Abner_Perez",
+      "numerope": "1554",
+      "NameDoc3": "DPI_Abner_Perez",
+      "NameDoc4": "Carta_Conciliación_APerez"
+    },
+    {
+      "pedido": "155424",
+      "estado": "Inactivo",
+      "nit": "7812",
+      "nombrecompleto": "Abner Francisco Perez",
+      "dpi": "3042689170114",
+      "tipocliente": "Particular",
+      "departamento": "Guatemala",
+      "municipio": "Villa Nueva",
+      "direccion": "7ma calle B 16-52",
+      "telefono": "41066398",
+      "correo": "bryan.perez@gmail.com",
+      "fecha1": "18/09/2022",
+      "fecha2": "25/09/2022",
+      "NameDoc": "Carta_Conciliación_APerez",
+      "NameDoc2": "RTU_Abner_Perez",
+      "numerope": "1554",
+      "NameDoc3": "DPI_Abner_Perez",
+      "NameDoc4": "Carta_Conciliación_APerez"
+    }
+
+  ]
+}
+
+

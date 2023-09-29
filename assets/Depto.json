@@ -1,0 +1,95 @@
+{
+
+  "items": [
+
+    {
+      "id": 1,
+      "departamento": "GUATEMALA"
+    },
+    {
+      "id": 2,
+      "departamento": "EL PROGRESO"
+    },
+    {
+      "id": 3,
+      "departamento": "SACATEPEQUEZ"
+    },
+    {
+      "id": 4,
+      "departamento": "CHIMALTENANGO"
+    },
+    {
+      "id": 5,
+      "departamento": "ESCUINTLA"
+    },
+    {
+      "id": 6,
+      "departamento": "SANTA ROSA"
+    },
+    {
+      "id": 7,
+      "departamento": "SOLOLA"
+    },
+    {
+      "id": 8,
+      "departamento": "TOTONICAPAN"
+    },
+    {
+      "id": 9,
+      "departamento": "QUETZALTENANGO"
+    },
+    {
+      "id": 10,
+      "departamento": "SUCHITEPEQUEZ"
+    },
+    {
+      "id": 11,
+      "departamento": "RETALHULEU"
+    },
+    {
+      "id": 12,
+      "departamento": "SAN MARCOS"
+    },
+    {
+      "id": 13,
+      "departamento": "HUEHUETENANGO"
+    },
+    {
+      "id": 14,
+      "departamento": "EL QUICHE"
+    },
+    {
+      "id": 15,
+      "departamento": "BAJA VERAPAZ"
+    },
+    {
+      "id": 16,
+      "departamento": "ALTA VERAPAZ"
+    },
+    {
+      "id": 17,
+      "departamento": "EL PETEN"
+    },
+    {
+      "id": 18,
+      "departamento": "IZABAL"
+    },
+    {
+      "id": 19,
+      "departamento": "ZACAPA"
+    },
+    {
+      "id": 20,
+      "departamento": "CHIQUIMULA"
+    },
+    {
+      "id": 21,
+      "departamento": "JALAPA"
+    },
+    {
+      "id": 22,
+      "departamento": "JUTIAPA"
+    }
+  ]
+
+}

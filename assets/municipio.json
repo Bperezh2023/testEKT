@@ -1,0 +1,2011 @@
+{
+
+  "municipio": [
+
+    {
+      "id": 1,
+      "municipio": "GUATEMALA",
+      "codigo": "101",
+      "departamentoId": 1
+    },
+    {
+      "id": 2,
+      "municipio": "SANTA CATARINA PINULA",
+      "codigo": "102",
+      "departamentoId": 1
+    },
+    {
+      "id": 3,
+      "municipio": "SAN JOSE PINULA",
+      "codigo": "103",
+      "departamentoId": 1
+    },
+    {
+      "id": 4,
+      "municipio": "SAN JOSE DEL GOLFO",
+      "codigo": "104",
+      "departamentoId": 1
+    },
+    {
+      "id": 5,
+      "municipio": "PALENCIA",
+      "codigo": "105",
+      "departamentoId": 1
+    },
+    {
+      "id": 6,
+      "municipio": "CHINAUTLA",
+      "codigo": "106",
+      "departamentoId": 1
+    },
+    {
+      "id": 7,
+      "municipio": "SAN PEDRO AYAMPUC",
+      "codigo": "107",
+      "departamentoId": 1
+    },
+    {
+      "id": 8,
+      "municipio": "MIXCO",
+      "codigo": "108",
+      "departamentoId": 1
+    },
+    {
+      "id": 9,
+      "municipio": "SAN PEDRO SACATEPEQUEZ",
+      "codigo": "109",
+      "departamentoId": 1
+    },
+    {
+      "id": 10,
+      "municipio": "SAN JUAN SACATEPEQUEZ",
+      "codigo": "110",
+      "departamentoId": 1
+    },
+    {
+      "id": 11,
+      "municipio": "SAN RAYMUNDO",
+      "codigo": "111",
+      "departamentoId": 1
+    },
+    {
+      "id": 12,
+      "municipio": "CHUARRANCHO",
+      "codigo": "112",
+      "departamentoId": 1
+    },
+    {
+      "id": 13,
+      "municipio": "FRAIJANES",
+      "codigo": "113",
+      "departamentoId": 1
+    },
+    {
+      "id": 14,
+      "municipio": "AMATITLAN",
+      "codigo": "114",
+      "departamentoId": 1
+    },
+    {
+      "id": 15,
+      "municipio": "VILLA NUEVA",
+      "codigo": "115",
+      "departamentoId": 1
+    },
+    {
+      "id": 16,
+      "municipio": "VILLA CANALES",
+      "codigo": "116",
+      "departamentoId": 1
+    },
+    {
+      "id": 17,
+      "municipio": "SAN MIGUEL PETAPA",
+      "codigo": "117",
+      "departamentoId": 1
+    },
+    {
+      "id": 18,
+      "municipio": "GUASTATOYA",
+      "codigo": "201",
+      "departamentoId": 2
+    },
+    {
+      "id": 19,
+      "municipio": "MORAZAN",
+      "codigo": "202",
+      "departamentoId": 2
+    },
+    {
+      "id": 20,
+      "municipio": "SAN AGUSTIN ACASAGUASTLAN",
+      "codigo": "203",
+      "departamentoId": 2
+    },
+    {
+      "id": 21,
+      "municipio": "SAN CRISTOBAL ACASAGUASTLAN",
+      "codigo": "204",
+      "departamentoId": 2
+    },
+    {
+      "id": 22,
+      "municipio": "EL JICARO",
+      "codigo": "205",
+      "departamentoId": 2
+    },
+    {
+      "id": 23,
+      "municipio": "SANSARE",
+      "codigo": "206",
+      "departamentoId": 2
+    },
+    {
+      "id": 24,
+      "municipio": "SANARATE",
+      "codigo": "207",
+      "departamentoId": 2
+    },
+    {
+      "id": 25,
+      "municipio": "SAN ANTONIO LA PAZ",
+      "codigo": "208",
+      "departamentoId": 2
+    },
+    {
+      "id": 26,
+      "municipio": "ANTIGUA",
+      "codigo": "301",
+      "departamentoId": 3
+    },
+    {
+      "id": 27,
+      "municipio": "JOCOTENANGO",
+      "codigo": "302",
+      "departamentoId": 3
+    },
+    {
+      "id": 28,
+      "municipio": "PASTORES",
+      "codigo": "303",
+      "departamentoId": 3
+    },
+    {
+      "id": 29,
+      "municipio": "SUMPANGO",
+      "codigo": "304",
+      "departamentoId": 3
+    },
+    {
+      "id": 30,
+      "municipio": "SANTO DOMINGO XENACOJ",
+      "codigo": "305",
+      "departamentoId": 3
+    },
+    {
+      "id": 31,
+      "municipio": "SANTIAGO SACATEPEQUEZ",
+      "codigo": "306",
+      "departamentoId": 3
+    },
+    {
+      "id": 32,
+      "municipio": "SAN BARTOLOME MILPAS ALTAS",
+      "codigo": "307",
+      "departamentoId": 3
+    },
+    {
+      "id": 33,
+      "municipio": "SAN LUCAS SACATEPEQUEZ",
+      "codigo": "308",
+      "departamentoId": 3
+    },
+    {
+      "id": 34,
+      "municipio": "SANTA LUCIA MILPAS ALTAS",
+      "codigo": "309",
+      "departamentoId": 3
+    },
+    {
+      "id": 35,
+      "municipio": "MAGDALENA MILPAS ALTAS",
+      "codigo": "310",
+      "departamentoId": 3
+    },
+    {
+      "id": 36,
+      "municipio": "SANTA MARIA DE JESUS",
+      "codigo": "311",
+      "departamentoId": 3
+    },
+    {
+      "id": 37,
+      "municipio": "CIUDAD VIEJA",
+      "codigo": "312",
+      "departamentoId": 3
+    },
+    {
+      "id": 38,
+      "municipio": "SAN MIGUEL DUENAS",
+      "codigo": "313",
+      "departamentoId": 3
+    },
+    {
+      "id": 39,
+      "municipio": "ALOTENANGO",
+      "codigo": "314",
+      "departamentoId": 3
+    },
+    {
+      "id": 40,
+      "municipio": "SAN ANTONIO AGUAS CALIENTES",
+      "codigo": "315",
+      "departamentoId": 3
+    },
+    {
+      "id": 41,
+      "municipio": "SANTA CATARINA BARAHONA",
+      "codigo": "316",
+      "departamentoId": 3
+    },
+    {
+      "id": 42,
+      "municipio": "CHIMALTENANGO",
+      "codigo": "401",
+      "departamentoId": 4
+    },
+    {
+      "id": 43,
+      "municipio": "SAN JOSE POAQUIL",
+      "codigo": "402",
+      "departamentoId": 4
+    },
+    {
+      "id": 44,
+      "municipio": "SAN MARTIN JILOTEPEQUE",
+      "codigo": "403",
+      "departamentoId": 4
+    },
+    {
+      "id": 45,
+      "municipio": "SAN JUAN COMALAPA",
+      "codigo": "404",
+      "departamentoId": 4
+    },
+    {
+      "id": 46,
+      "municipio": "SANTA APOLONIA",
+      "codigo": "405",
+      "departamentoId": 4
+    },
+    {
+      "id": 47,
+      "municipio": "TECPAN GUATEMALA",
+      "codigo": "406",
+      "departamentoId": 4
+    },
+    {
+      "id": 48,
+      "municipio": "PATZUN",
+      "codigo": "407",
+      "departamentoId": 4
+    },
+    {
+      "id": 49,
+      "municipio": "SAN MIGUEL POCHUTA",
+      "codigo": "408",
+      "departamentoId": 4
+    },
+    {
+      "id": 50,
+      "municipio": "PATZICIA",
+      "codigo": "409",
+      "departamentoId": 4
+    },
+    {
+      "id": 51,
+      "municipio": "SANTA CRUZ BALANYA",
+      "codigo": "410",
+      "departamentoId": 4
+    },
+    {
+      "id": 52,
+      "municipio": "ACATENANGO",
+      "codigo": "411",
+      "departamentoId": 4
+    },
+    {
+      "id": 53,
+      "municipio": "SAN PEDRO YEPOCAPA",
+      "codigo": "412",
+      "departamentoId": 4
+    },
+    {
+      "id": 54,
+      "municipio": "SAN ANDRES ITZAPA",
+      "codigo": "413",
+      "departamentoId": 4
+    },
+    {
+      "id": 55,
+      "municipio": "PARRAMOS",
+      "codigo": "414",
+      "departamentoId": 4
+    },
+    {
+      "id": 56,
+      "municipio": "ZARAGOZA",
+      "codigo": "415",
+      "departamentoId": 4
+    },
+    {
+      "id": 57,
+      "municipio": "EL TEJAR",
+      "codigo": "416",
+      "departamentoId": 4
+    },
+    {
+      "id": 58,
+      "municipio": "ESCUINTLA",
+      "codigo": "501",
+      "departamentoId": 5
+    },
+    {
+      "id": 59,
+      "municipio": "SANTA LUCIA COTZUMALGUAPA",
+      "codigo": "502",
+      "departamentoId": 5
+    },
+    {
+      "id": 60,
+      "municipio": "LA DEMOCRACIA",
+      "codigo": "503",
+      "departamentoId": 5
+    },
+    {
+      "id": 61,
+      "municipio": "SIQUINALA",
+      "codigo": "504",
+      "departamentoId": 5
+    },
+    {
+      "id": 62,
+      "municipio": "MASAGUA",
+      "codigo": "505",
+      "departamentoId": 5
+    },
+    {
+      "id": 63,
+      "municipio": "TIQUISATE",
+      "codigo": "506",
+      "departamentoId": 5
+    },
+    {
+      "id": 64,
+      "municipio": "LA GOMERA",
+      "codigo": "507",
+      "departamentoId": 5
+    },
+    {
+      "id": 65,
+      "municipio": "GUANAGAZAPA",
+      "codigo": "508",
+      "departamentoId": 5
+    },
+    {
+      "id": 66,
+      "municipio": "SAN JOSE",
+      "codigo": "509",
+      "departamentoId": 5
+    },
+    {
+      "id": 67,
+      "municipio": "IZTAPA",
+      "codigo": "510",
+      "departamentoId": 5
+    },
+    {
+      "id": 68,
+      "municipio": "PALIN",
+      "codigo": "511",
+      "departamentoId": 5
+    },
+    {
+      "id": 69,
+      "municipio": "SAN VICENTE PACAYA",
+      "codigo": "512",
+      "departamentoId": 5
+    },
+    {
+      "id": 70,
+      "municipio": "NUEVA CONCEPCION",
+      "codigo": "513",
+      "departamentoId": 5
+    },
+    {
+      "id": 71,
+      "municipio": "CUILAPA",
+      "codigo": "601",
+      "departamentoId": 6
+    },
+    {
+      "id": 72,
+      "municipio": "BARBERENA",
+      "codigo": "602",
+      "departamentoId": 6
+    },
+    {
+      "id": 73,
+      "municipio": "SANTA ROSA DE LIMA",
+      "codigo": "603",
+      "departamentoId": 6
+    },
+    {
+      "id": 74,
+      "municipio": "CASILLAS",
+      "codigo": "604",
+      "departamentoId": 6
+    },
+    {
+      "id": 75,
+      "municipio": "SAN RAFAEL LAS FLORES",
+      "codigo": "605",
+      "departamentoId": 6
+    },
+    {
+      "id": 76,
+      "municipio": "ORATORIO",
+      "codigo": "606",
+      "departamentoId": 6
+    },
+    {
+      "id": 77,
+      "municipio": "SAN JUAN TECUACO",
+      "codigo": "607",
+      "departamentoId": 6
+    },
+    {
+      "id": 78,
+      "municipio": "CHIQUIMULILLA",
+      "codigo": "608",
+      "departamentoId": 6
+    },
+    {
+      "id": 79,
+      "municipio": "TAXISCO",
+      "codigo": "609",
+      "departamentoId": 6
+    },
+    {
+      "id": 80,
+      "municipio": "SANTA MARIA IXHUATAN",
+      "codigo": "610",
+      "departamentoId": 6
+    },
+    {
+      "id": 81,
+      "municipio": "GUAZACAPAN",
+      "codigo": "611",
+      "departamentoId": 6
+    },
+    {
+      "id": 82,
+      "municipio": "SANTA CRUZ NARANJO",
+      "codigo": "612",
+      "departamentoId": 6
+    },
+    {
+      "id": 83,
+      "municipio": "PUEBLO NUEVO VIÑAS",
+      "codigo": "613",
+      "departamentoId": 6
+    },
+    {
+      "id": 84,
+      "municipio": "NUEVA SANTA ROSA",
+      "codigo": "614",
+      "departamentoId": 6
+    },
+    {
+      "id": 85,
+      "municipio": "SOLOLA",
+      "codigo": "701",
+      "departamentoId": 7
+    },
+    {
+      "id": 86,
+      "municipio": "SAN JOSE CHACAYA",
+      "codigo": "702",
+      "departamentoId": 7
+    },
+    {
+      "id": 87,
+      "municipio": "SANTA MARIA VISITACION",
+      "codigo": "703",
+      "departamentoId": 7
+    },
+    {
+      "id": 88,
+      "municipio": "SANTA LUCIA UTATLAN",
+      "codigo": "704",
+      "departamentoId": 7
+    },
+    {
+      "id": 89,
+      "municipio": "NAHUALA",
+      "codigo": "705",
+      "departamentoId": 7
+    },
+    {
+      "id": 90,
+      "municipio": "SANTA CATARINA IXTAHUACAN",
+      "codigo": "706",
+      "departamentoId": 7
+    },
+    {
+      "id": 91,
+      "municipio": "SANTA CLARA LA LAGUNA",
+      "codigo": "707",
+      "departamentoId": 7
+    },
+    {
+      "id": 92,
+      "municipio": "CONCEPCION",
+      "codigo": "708",
+      "departamentoId": 7
+    },
+    {
+      "id": 93,
+      "municipio": "SAN ANDRES SEMETABAJ",
+      "codigo": "709",
+      "departamentoId": 7
+    },
+    {
+      "id": 94,
+      "municipio": "PANAJACHEL",
+      "codigo": "710",
+      "departamentoId": 7
+    },
+    {
+      "id": 95,
+      "municipio": "SANTA CATARINA PALOPO",
+      "codigo": "711",
+      "departamentoId": 7
+    },
+    {
+      "id": 96,
+      "municipio": "SAN ANTONIO PALOPO",
+      "codigo": "712",
+      "departamentoId": 7
+    },
+    {
+      "id": 97,
+      "municipio": "SAN LUCAS TOLIMAN",
+      "codigo": "713",
+      "departamentoId": 7
+    },
+    {
+      "id": 98,
+      "municipio": "SANTA CRUZ LA LAGUNA",
+      "codigo": "714",
+      "departamentoId": 7
+    },
+    {
+      "id": 99,
+      "municipio": "SAN PABLO LA LAGUNA",
+      "codigo": "715",
+      "departamentoId": 7
+    },
+    {
+      "id": 100,
+      "municipio": "SAN MARCOS LA LAGUNA",
+      "codigo": "716",
+      "departamentoId": 7
+    },
+    {
+      "id": 101,
+      "municipio": "SAN JUAN LA LAGUNA",
+      "codigo": "717",
+      "departamentoId": 7
+    },
+    {
+      "id": 102,
+      "municipio": "SAN PEDRO LA LAGUNA",
+      "codigo": "718",
+      "departamentoId": 7
+    },
+    {
+      "id": 103,
+      "municipio": "SANTIAGO ATITLAN",
+      "codigo": "719",
+      "departamentoId": 7
+    },
+    {
+      "id": 104,
+      "municipio": "TOTONICAPAN",
+      "codigo": "801",
+      "departamentoId": 8
+    },
+    {
+      "id": 105,
+      "municipio": "SAN CRISTOBAL TOTONICAPAN",
+      "codigo": "802",
+      "departamentoId": 8
+    },
+    {
+      "id": 106,
+      "municipio": "SAN FRANCISCO EL ALTO",
+      "codigo": "803",
+      "departamentoId": 8
+    },
+    {
+      "id": 107,
+      "municipio": "SAN ANDRES XECUL",
+      "codigo": "804",
+      "departamentoId": 8
+    },
+    {
+      "id": 108,
+      "municipio": "MOMOSTENANGO",
+      "codigo": "805",
+      "departamentoId": 8
+    },
+    {
+      "id": 109,
+      "municipio": "SANTA MARIA CHIQUIMULA",
+      "codigo": "806",
+      "departamentoId": 8
+    },
+    {
+      "id": 110,
+      "municipio": "SANTA LUCIA LA REFORMA",
+      "codigo": "807",
+      "departamentoId": 8
+    },
+    {
+      "id": 111,
+      "municipio": "SAN BARTOLO AGUAS CALIENTES",
+      "codigo": "808",
+      "departamentoId": 8
+    },
+    {
+      "id": 112,
+      "municipio": "QUETZALTENANGO",
+      "codigo": "901",
+      "departamentoId": 9
+    },
+    {
+      "id": 113,
+      "municipio": "SALCAJA",
+      "codigo": "902",
+      "departamentoId": 9
+    },
+    {
+      "id": 114,
+      "municipio": "OLINTEPEQUE",
+      "codigo": "903",
+      "departamentoId": 9
+    },
+    {
+      "id": 115,
+      "municipio": "SAN CARLOS SIJA",
+      "codigo": "904",
+      "departamentoId": 9
+    },
+    {
+      "id": 116,
+      "municipio": "SIBILIA",
+      "codigo": "905",
+      "departamentoId": 9
+    },
+    {
+      "id": 117,
+      "municipio": "CABRICAN",
+      "codigo": "906",
+      "departamentoId": 9
+    },
+    {
+      "id": 118,
+      "municipio": "CAJOLA",
+      "codigo": "907",
+      "departamentoId": 9
+    },
+    {
+      "id": 119,
+      "municipio": "SAN MIGUEL SIGUILA",
+      "codigo": "908",
+      "departamentoId": 9
+    },
+    {
+      "id": 120,
+      "municipio": "SAN JUAN OSTUNCALCO",
+      "codigo": "909",
+      "departamentoId": 9
+    },
+    {
+      "id": 121,
+      "municipio": "SAN MATEO",
+      "codigo": "910",
+      "departamentoId": 9
+    },
+    {
+      "id": 122,
+      "municipio": "CONCEPCION CHIQUIRICHAPA",
+      "codigo": "911",
+      "departamentoId": 9
+    },
+    {
+      "id": 123,
+      "municipio": "SAN MARTIN SACATEPEQUEZ",
+      "codigo": "912",
+      "departamentoId": 9
+    },
+    {
+      "id": 124,
+      "municipio": "ALMOLONGA",
+      "codigo": "913",
+      "departamentoId": 9
+    },
+    {
+      "id": 125,
+      "municipio": "CANTEL",
+      "codigo": "914",
+      "departamentoId": 9
+    },
+    {
+      "id": 126,
+      "municipio": "HUITAN",
+      "codigo": "915",
+      "departamentoId": 9
+    },
+    {
+      "id": 127,
+      "municipio": "ZUNIL",
+      "codigo": "916",
+      "departamentoId": 9
+    },
+    {
+      "id": 128,
+      "municipio": "COLOMBA COSTA CUCA",
+      "codigo": "917",
+      "departamentoId": 9
+    },
+    {
+      "id": 129,
+      "municipio": "SAN FRANCISCO LA UNION",
+      "codigo": "918",
+      "departamentoId": 9
+    },
+    {
+      "id": 130,
+      "municipio": "EL PALMAR",
+      "codigo": "919",
+      "departamentoId": 9
+    },
+    {
+      "id": 131,
+      "municipio": "COATEPEQUE",
+      "codigo": "920",
+      "departamentoId": 9
+    },
+    {
+      "id": 132,
+      "municipio": "GENOVA COSTA CUCA",
+      "codigo": "921",
+      "departamentoId": 9
+    },
+    {
+      "id": 133,
+      "municipio": "FLORES COSTA CUCA",
+      "codigo": "922",
+      "departamentoId": 9
+    },
+    {
+      "id": 134,
+      "municipio": "LA ESPERANZA",
+      "codigo": "923",
+      "departamentoId": 9
+    },
+    {
+      "id": 135,
+      "municipio": "PALESTINA DE LOS ALTOS",
+      "codigo": "924",
+      "departamentoId": 9
+    },
+    {
+      "id": 136,
+      "municipio": "MAZATENANGO",
+      "codigo": "1001",
+      "departamentoId": 10
+    },
+    {
+      "id": 137,
+      "municipio": "CUYOTENANGO",
+      "codigo": "1002",
+      "departamentoId": 10
+    },
+    {
+      "id": 138,
+      "municipio": "SAN FRANCISCO ZAPOTITLAN",
+      "codigo": "1003",
+      "departamentoId": 10
+    },
+    {
+      "id": 139,
+      "municipio": "SAN BERNARDINO",
+      "codigo": "1004",
+      "departamentoId": 10
+    },
+    {
+      "id": 140,
+      "municipio": "SAN JOSE EL IDOLO",
+      "codigo": "1005",
+      "departamentoId": 10
+    },
+    {
+      "id": 141,
+      "municipio": "SANTO DOMINGO SUCHITEPEQUEZ",
+      "codigo": "1006",
+      "departamentoId": 10
+    },
+    {
+      "id": 142,
+      "municipio": "SAN LORENZO",
+      "codigo": "1007",
+      "departamentoId": 10
+    },
+    {
+      "id": 143,
+      "municipio": "SAMAYAC",
+      "codigo": "1008",
+      "departamentoId": 10
+    },
+    {
+      "id": 144,
+      "municipio": "SAN PABLO JOCOPILAS",
+      "codigo": "1009",
+      "departamentoId": 10
+    },
+    {
+      "id": 145,
+      "municipio": "SAN ANTONIO SUCHITEPEQUEZ",
+      "codigo": "1010",
+      "departamentoId": 10
+    },
+    {
+      "id": 146,
+      "municipio": "SAN MIGUEL PANAM",
+      "codigo": "1011",
+      "departamentoId": 10
+    },
+    {
+      "id": 147,
+      "municipio": "SAN GABRIEL",
+      "codigo": "1012",
+      "departamentoId": 10
+    },
+    {
+      "id": 148,
+      "municipio": "CHICACAO",
+      "codigo": "1013",
+      "departamentoId": 10
+    },
+    {
+      "id": 149,
+      "municipio": "PATULUL",
+      "codigo": "1014",
+      "departamentoId": 10
+    },
+    {
+      "id": 150,
+      "municipio": "SANTA BARBARA",
+      "codigo": "1015",
+      "departamentoId": 10
+    },
+    {
+      "id": 151,
+      "municipio": "SAN JUAN BAUTISTA",
+      "codigo": "1016",
+      "departamentoId": 10
+    },
+    {
+      "id": 152,
+      "municipio": "SANTO TOMAS LA UNION",
+      "codigo": "1017",
+      "departamentoId": 10
+    },
+    {
+      "id": 153,
+      "municipio": "ZUNILITO",
+      "codigo": "1018",
+      "departamentoId": 10
+    },
+    {
+      "id": 154,
+      "municipio": "PUEBLO NUEVO",
+      "codigo": "1019",
+      "departamentoId": 10
+    },
+    {
+      "id": 155,
+      "municipio": "RIO BRAVO",
+      "codigo": "1020",
+      "departamentoId": 10
+    },
+    {
+      "id": 156,
+      "municipio": "RETALHULEU",
+      "codigo": "1101",
+      "departamentoId": 11
+    },
+    {
+      "id": 157,
+      "municipio": "SAN SEBASTIAN",
+      "codigo": "1102",
+      "departamentoId": 11
+    },
+    {
+      "id": 158,
+      "municipio": "SANTA CRUZ MULUA",
+      "codigo": "1103",
+      "departamentoId": 11
+    },
+    {
+      "id": 159,
+      "municipio": "SAN MARTIN ZAPOTITLAN",
+      "codigo": "1104",
+      "departamentoId": 11
+    },
+    {
+      "id": 160,
+      "municipio": "SAN FELIPE",
+      "codigo": "1105",
+      "departamentoId": 11
+    },
+    {
+      "id": 161,
+      "municipio": "SAN ANDRES VILLA SECA",
+      "codigo": "1106",
+      "departamentoId": 11
+    },
+    {
+      "id": 162,
+      "municipio": "CHAMPERICO",
+      "codigo": "1107",
+      "departamentoId": 11
+    },
+    {
+      "id": 163,
+      "municipio": "NUEVO SAN CARLOS",
+      "codigo": "1108",
+      "departamentoId": 11
+    },
+    {
+      "id": 164,
+      "municipio": "EL ASINTAL",
+      "codigo": "1109",
+      "departamentoId": 11
+    },
+    {
+      "id": 165,
+      "municipio": "SAN MARCOS",
+      "codigo": "1201",
+      "departamentoId": 12
+    },
+    {
+      "id": 166,
+      "municipio": "SAN PEDRO SACATEPEQUEZ",
+      "codigo": "1202",
+      "departamentoId": 12
+    },
+    {
+      "id": 167,
+      "municipio": "SAN ANTONIO SACATEPEQUEZ",
+      "codigo": "1203",
+      "departamentoId": 12
+    },
+    {
+      "id": 168,
+      "municipio": "COMITANCILLO",
+      "codigo": "1204",
+      "departamentoId": 12
+    },
+    {
+      "id": 169,
+      "municipio": "SAN MIGUEL IXTAHUACAN",
+      "codigo": "1205",
+      "departamentoId": 12
+    },
+    {
+      "id": 170,
+      "municipio": "CONCEPCION TUTUAPA",
+      "codigo": "1206",
+      "departamentoId": 12
+    },
+    {
+      "id": 171,
+      "municipio": "TACANA",
+      "codigo": "1207",
+      "departamentoId": 12
+    },
+    {
+      "id": 172,
+      "municipio": "SIBINAL",
+      "codigo": "1208",
+      "departamentoId": 12
+    },
+    {
+      "id": 173,
+      "municipio": "TAJUMULCO",
+      "codigo": "1209",
+      "departamentoId": 12
+    },
+    {
+      "id": 174,
+      "municipio": "TEJUTLA",
+      "codigo": "1210",
+      "departamentoId": 12
+    },
+    {
+      "id": 175,
+      "municipio": "SAN RAFAEL PIE DE LA CUESTA",
+      "codigo": "1211",
+      "departamentoId": 12
+    },
+    {
+      "id": 176,
+      "municipio": "NUEVO PROGRESO",
+      "codigo": "1212",
+      "departamentoId": 12
+    },
+    {
+      "id": 177,
+      "municipio": "EL TUMBADOR",
+      "codigo": "1213",
+      "departamentoId": 12
+    },
+    {
+      "id": 178,
+      "municipio": "SAN JOSE EL RODEO",
+      "codigo": "1214",
+      "departamentoId": 12
+    },
+    {
+      "id": 179,
+      "municipio": "MALACATAN",
+      "codigo": "1215",
+      "departamentoId": 12
+    },
+    {
+      "id": 180,
+      "municipio": "CATARINA",
+      "codigo": "1216",
+      "departamentoId": 12
+    },
+    {
+      "id": 181,
+      "municipio": "AYUTLA (TECUN UMAN)",
+      "codigo": "1217",
+      "departamentoId": 12
+    },
+    {
+      "id": 182,
+      "municipio": "OCOS",
+      "codigo": "1218",
+      "departamentoId": 12
+    },
+    {
+      "id": 183,
+      "municipio": "SAN PABLO",
+      "codigo": "1219",
+      "departamentoId": 12
+    },
+    {
+      "id": 184,
+      "municipio": "EL QUETZAL",
+      "codigo": "1220",
+      "departamentoId": 12
+    },
+    {
+      "id": 185,
+      "municipio": "LA REFORMA",
+      "codigo": "1221",
+      "departamentoId": 12
+    },
+    {
+      "id": 186,
+      "municipio": "PAJAPITA",
+      "codigo": "1222",
+      "departamentoId": 12
+    },
+    {
+      "id": 187,
+      "municipio": "IXCHIGUAN",
+      "codigo": "1223",
+      "departamentoId": 12
+    },
+    {
+      "id": 188,
+      "municipio": "SAN JOSE OJETENAN",
+      "codigo": "1224",
+      "departamentoId": 12
+    },
+    {
+      "id": 189,
+      "municipio": "SAN CRISTOBAL CUCHO",
+      "codigo": "1225",
+      "departamentoId": 12
+    },
+    {
+      "id": 190,
+      "municipio": "SIPACAPA",
+      "codigo": "1226",
+      "departamentoId": 12
+    },
+    {
+      "id": 191,
+      "municipio": "ESQUIPULAS PALO GORDO",
+      "codigo": "1227",
+      "departamentoId": 12
+    },
+    {
+      "id": 192,
+      "municipio": "RIO BLANCO",
+      "codigo": "1228",
+      "departamentoId": 12
+    },
+    {
+      "id": 193,
+      "municipio": "SAN LORENZO",
+      "codigo": "1229",
+      "departamentoId": 12
+    },
+    {
+      "id": 194,
+      "municipio": "HUEHUETENANGO",
+      "codigo": "1301",
+      "departamentoId": 13
+    },
+    {
+      "id": 195,
+      "municipio": "CHIANTLA",
+      "codigo": "1302",
+      "departamentoId": 13
+    },
+    {
+      "id": 196,
+      "municipio": "MALACATANCITO",
+      "codigo": "1303",
+      "departamentoId": 13
+    },
+    {
+      "id": 197,
+      "municipio": "CUILCO",
+      "codigo": "1304",
+      "departamentoId": 13
+    },
+    {
+      "id": 198,
+      "municipio": "NENTON",
+      "codigo": "1305",
+      "departamentoId": 13
+    },
+    {
+      "id": 199,
+      "municipio": "SAN PEDRO NECTA",
+      "codigo": "1306",
+      "departamentoId": 13
+    },
+    {
+      "id": 200,
+      "municipio": "JACALTENANGO",
+      "codigo": "1307",
+      "departamentoId": 13
+    },
+    {
+      "id": 201,
+      "municipio": "SAN PEDRO SOLOMA",
+      "codigo": "1308",
+      "departamentoId": 13
+    },
+    {
+      "id": 202,
+      "municipio": "SAN ILDEFONSO IXTAHUACAN",
+      "codigo": "1309",
+      "departamentoId": 13
+    },
+    {
+      "id": 203,
+      "municipio": "SANTA BARBARA",
+      "codigo": "1310",
+      "departamentoId": 13
+    },
+    {
+      "id": 204,
+      "municipio": "LA LIBERTAD",
+      "codigo": "1311",
+      "departamentoId": 13
+    },
+    {
+      "id": 205,
+      "municipio": "LA DEMOCRACIA",
+      "codigo": "1312",
+      "departamentoId": 13
+    },
+    {
+      "id": 206,
+      "municipio": "SAN MIGUEL ACATAN",
+      "codigo": "1313",
+      "departamentoId": 13
+    },
+    {
+      "id": 207,
+      "municipio": "SAN RAFAEL LA INDEPENDENCIA",
+      "codigo": "1314",
+      "departamentoId": 13
+    },
+    {
+      "id": 208,
+      "municipio": "TODOS SANTOS CUCHUMATAN",
+      "codigo": "1315",
+      "departamentoId": 13
+    },
+    {
+      "id": 209,
+      "municipio": "SAN JUAN ATITAN",
+      "codigo": "1316",
+      "departamentoId": 13
+    },
+    {
+      "id": 210,
+      "municipio": "SANTA EULALIA",
+      "codigo": "1317",
+      "departamentoId": 13
+    },
+    {
+      "id": 211,
+      "municipio": "SAN MATEO IXTATAN",
+      "codigo": "1318",
+      "departamentoId": 13
+    },
+    {
+      "id": 212,
+      "municipio": "COLOTENANGO",
+      "codigo": "1319",
+      "departamentoId": 13
+    },
+    {
+      "id": 213,
+      "municipio": "SAN SEBASTIAN HUEHUETENANGO",
+      "codigo": "1320",
+      "departamentoId": 13
+    },
+    {
+      "id": 214,
+      "municipio": "TECTITAN",
+      "codigo": "1321",
+      "departamentoId": 13
+    },
+    {
+      "id": 215,
+      "municipio": "CONCEPCION HUISTA",
+      "codigo": "1322",
+      "departamentoId": 13
+    },
+    {
+      "id": 216,
+      "municipio": "SAN JUAN IXCOY",
+      "codigo": "1323",
+      "departamentoId": 13
+    },
+    {
+      "id": 217,
+      "municipio": "SAN ANTONIO HUISTA",
+      "codigo": "1324",
+      "departamentoId": 13
+    },
+    {
+      "id": 218,
+      "municipio": "SAN SEBASTIAN COATAN",
+      "codigo": "1325",
+      "departamentoId": 13
+    },
+    {
+      "id": 219,
+      "municipio": "SANTA CRUZ BARILLAS",
+      "codigo": "1326",
+      "departamentoId": 13
+    },
+    {
+      "id": 220,
+      "municipio": "AGUACATAN",
+      "codigo": "1327",
+      "departamentoId": 13
+    },
+    {
+      "id": 221,
+      "municipio": "SAN RAFAEL PETZAL",
+      "codigo": "1328",
+      "departamentoId": 13
+    },
+    {
+      "id": 222,
+      "municipio": "SAN GASPAR IXCHIL",
+      "codigo": "1329",
+      "departamentoId": 13
+    },
+    {
+      "id": 223,
+      "municipio": "SANTIAGO CHIMALTENANGO",
+      "codigo": "1330",
+      "departamentoId": 13
+    },
+    {
+      "id": 224,
+      "municipio": "SANTA ANA HUISTA",
+      "codigo": "1331",
+      "departamentoId": 13
+    },
+    {
+      "id": 225,
+      "municipio": "UNIÓN CANTINIL",
+      "codigo": "1332",
+      "departamentoId": 13
+    },
+    {
+      "id": 226,
+      "municipio": "SANTA CRUZ DEL QUICHE",
+      "codigo": "1401",
+      "departamentoId": 14
+    },
+    {
+      "id": 227,
+      "municipio": "CHICHE",
+      "codigo": "1402",
+      "departamentoId": 14
+    },
+    {
+      "id": 228,
+      "municipio": "CHINIQUE",
+      "codigo": "1403",
+      "departamentoId": 14
+    },
+    {
+      "id": 229,
+      "municipio": "ZACUALPA",
+      "codigo": "1404",
+      "departamentoId": 14
+    },
+    {
+      "id": 230,
+      "municipio": "CHAJUL",
+      "codigo": "1405",
+      "departamentoId": 14
+    },
+    {
+      "id": 231,
+      "municipio": "STO TOMAS CHICHICASTENANGO",
+      "codigo": "1406",
+      "departamentoId": 14
+    },
+    {
+      "id": 232,
+      "municipio": "PATZITE",
+      "codigo": "1407",
+      "departamentoId": 14
+    },
+    {
+      "id": 233,
+      "municipio": "SAN ANTONIO ILOTENANGO",
+      "codigo": "1408",
+      "departamentoId": 14
+    },
+    {
+      "id": 234,
+      "municipio": "SAN PEDRO JOCOPILAS",
+      "codigo": "1409",
+      "departamentoId": 14
+    },
+    {
+      "id": 235,
+      "municipio": "CUNEN",
+      "codigo": "1410",
+      "departamentoId": 14
+    },
+    {
+      "id": 236,
+      "municipio": "SAN JUAN COTZAL",
+      "codigo": "1411",
+      "departamentoId": 14
+    },
+    {
+      "id": 237,
+      "municipio": "JOYABAJ",
+      "codigo": "1412",
+      "departamentoId": 14
+    },
+    {
+      "id": 238,
+      "municipio": "NEBAJ",
+      "codigo": "1413",
+      "departamentoId": 14
+    },
+    {
+      "id": 239,
+      "municipio": "SAN ANDRES SAJCABAJA",
+      "codigo": "1414",
+      "departamentoId": 14
+    },
+    {
+      "id": 240,
+      "municipio": "SAN MIGUEL USPANTAN",
+      "codigo": "1415",
+      "departamentoId": 14
+    },
+    {
+      "id": 241,
+      "municipio": "SACAPULAS",
+      "codigo": "1416",
+      "departamentoId": 14
+    },
+    {
+      "id": 242,
+      "municipio": "SAN BARTOLOME JOCOTENANGO",
+      "codigo": "1417",
+      "departamentoId": 14
+    },
+    {
+      "id": 243,
+      "municipio": "CANILLA",
+      "codigo": "1418",
+      "departamentoId": 14
+    },
+    {
+      "id": 244,
+      "municipio": "CHICAMAN",
+      "codigo": "1419",
+      "departamentoId": 14
+    },
+    {
+      "id": 245,
+      "municipio": "IXCAN",
+      "codigo": "1420",
+      "departamentoId": 14
+    },
+    {
+      "id": 246,
+      "municipio": "PACHALUN",
+      "codigo": "1421",
+      "departamentoId": 14
+    },
+    {
+      "id": 247,
+      "municipio": "PLAYA GRANDE",
+      "codigo": "1422",
+      "departamentoId": 14
+    },
+    {
+      "id": 248,
+      "municipio": "SALAMA",
+      "codigo": "1501",
+      "departamentoId": 15
+    },
+    {
+      "id": 249,
+      "municipio": "SAN MIGUEL CHICAJ",
+      "codigo": "1502",
+      "departamentoId": 15
+    },
+    {
+      "id": 250,
+      "municipio": "RABINAL",
+      "codigo": "1503",
+      "departamentoId": 15
+    },
+    {
+      "id": 251,
+      "municipio": "CUBULCO",
+      "codigo": "1504",
+      "departamentoId": 15
+    },
+    {
+      "id": 252,
+      "municipio": "GRANADOS",
+      "codigo": "1505",
+      "departamentoId": 15
+    },
+    {
+      "id": 253,
+      "municipio": "SANTA CRUZ EL CHOL",
+      "codigo": "1506",
+      "departamentoId": 15
+    },
+    {
+      "id": 254,
+      "municipio": "SAN JERONIMO",
+      "codigo": "1507",
+      "departamentoId": 15
+    },
+    {
+      "id": 255,
+      "municipio": "PURULHA",
+      "codigo": "1508",
+      "departamentoId": 15
+    },
+    {
+      "id": 256,
+      "municipio": "COBAN",
+      "codigo": "1601",
+      "departamentoId": 16
+    },
+    {
+      "id": 257,
+      "municipio": "SANTA CRUZ VERAPAZ",
+      "codigo": "1602",
+      "departamentoId": 16
+    },
+    {
+      "id": 258,
+      "municipio": "SAN CRISTOBAL VERAPAZ",
+      "codigo": "1603",
+      "departamentoId": 16
+    },
+    {
+      "id": 259,
+      "municipio": "TACTIC",
+      "codigo": "1604",
+      "departamentoId": 16
+    },
+    {
+      "id": 260,
+      "municipio": "TAMAHU",
+      "codigo": "1605",
+      "departamentoId": 16
+    },
+    {
+      "id": 261,
+      "municipio": "SAN MIGUEL TUCURU",
+      "codigo": "1606",
+      "departamentoId": 16
+    },
+    {
+      "id": 262,
+      "municipio": "PANZOS",
+      "codigo": "1607",
+      "departamentoId": 16
+    },
+    {
+      "id": 263,
+      "municipio": "SENAHU",
+      "codigo": "1608",
+      "departamentoId": 16
+    },
+    {
+      "id": 264,
+      "municipio": "SAN PEDRO CARCHA",
+      "codigo": "1609",
+      "departamentoId": 16
+    },
+    {
+      "id": 265,
+      "municipio": "SAN JUAN CHAMELCO",
+      "codigo": "1610",
+      "departamentoId": 16
+    },
+    {
+      "id": 266,
+      "municipio": "LANQUIN",
+      "codigo": "1611",
+      "departamentoId": 16
+    },
+    {
+      "id": 267,
+      "municipio": "SANTA MARIA CAHABON",
+      "codigo": "1612",
+      "departamentoId": 16
+    },
+    {
+      "id": 268,
+      "municipio": "CHISEC",
+      "codigo": "1613",
+      "departamentoId": 16
+    },
+    {
+      "id": 269,
+      "municipio": "CHAHAL",
+      "codigo": "1614",
+      "departamentoId": 16
+    },
+    {
+      "id": 270,
+      "municipio": "FRAY BARTOLOME DE LAS CASAS",
+      "codigo": "1615",
+      "departamentoId": 16
+    },
+    {
+      "id": 271,
+      "municipio": "LA TINTA",
+      "codigo": "1616",
+      "departamentoId": 16
+    },
+    {
+      "id": 272,
+      "municipio": "RAXRUHÁ",
+      "codigo": "1617",
+      "departamentoId": 16
+    },
+    {
+      "id": 273,
+      "municipio": "FLORES",
+      "codigo": "1701",
+      "departamentoId": 17
+    },
+    {
+      "id": 274,
+      "municipio": "SAN JOSE",
+      "codigo": "1702",
+      "departamentoId": 17
+    },
+    {
+      "id": 275,
+      "municipio": "SAN BENITO",
+      "codigo": "1703",
+      "departamentoId": 17
+    },
+    {
+      "id": 276,
+      "municipio": "SAN ANDRES",
+      "codigo": "1704",
+      "departamentoId": 17
+    },
+    {
+      "id": 277,
+      "municipio": "LA LIBERTAD",
+      "codigo": "1705",
+      "departamentoId": 17
+    },
+    {
+      "id": 278,
+      "municipio": "SAN FRANCISCO",
+      "codigo": "1706",
+      "departamentoId": 17
+    },
+    {
+      "id": 279,
+      "municipio": "SANTA ANA",
+      "codigo": "1707",
+      "departamentoId": 17
+    },
+    {
+      "id": 280,
+      "municipio": "DOLORES",
+      "codigo": "1708",
+      "departamentoId": 17
+    },
+    {
+      "id": 281,
+      "municipio": "SAN LUIS",
+      "codigo": "1709",
+      "departamentoId": 17
+    },
+    {
+      "id": 282,
+      "municipio": "SAYAXCHE",
+      "codigo": "1710",
+      "departamentoId": 17
+    },
+    {
+      "id": 283,
+      "municipio": "MELCHOR DE MENCOS",
+      "codigo": "1711",
+      "departamentoId": 17
+    },
+    {
+      "id": 284,
+      "municipio": "POPTUN",
+      "codigo": "1712",
+      "departamentoId": 17
+    },
+    {
+      "id": 285,
+      "municipio": "PUERTO BARRIOS",
+      "codigo": "1801",
+      "departamentoId": 18
+    },
+    {
+      "id": 286,
+      "municipio": "LIVINGSTON",
+      "codigo": "1802",
+      "departamentoId": 18
+    },
+    {
+      "id": 287,
+      "municipio": "EL ESTOR",
+      "codigo": "1803",
+      "departamentoId": 18
+    },
+    {
+      "id": 288,
+      "municipio": "MORALES",
+      "codigo": "1804",
+      "departamentoId": 18
+    },
+    {
+      "id": 289,
+      "municipio": "LOS AMATES",
+      "codigo": "1805",
+      "departamentoId": 18
+    },
+    {
+      "id": 290,
+      "municipio": "ZACAPA",
+      "codigo": "1901",
+      "departamentoId": 19
+    },
+    {
+      "id": 291,
+      "municipio": "ESTANZUELA",
+      "codigo": "1902",
+      "departamentoId": 19
+    },
+    {
+      "id": 292,
+      "municipio": "RIO HONDO",
+      "codigo": "1903",
+      "departamentoId": 19
+    },
+    {
+      "id": 293,
+      "municipio": "GUALAN",
+      "codigo": "1904",
+      "departamentoId": 19
+    },
+    {
+      "id": 294,
+      "municipio": "TECULUTAN",
+      "codigo": "1905",
+      "departamentoId": 19
+    },
+    {
+      "id": 295,
+      "municipio": "USUMATLAN",
+      "codigo": "1906",
+      "departamentoId": 19
+    },
+    {
+      "id": 296,
+      "municipio": "CABANAS",
+      "codigo": "1907",
+      "departamentoId": 19
+    },
+    {
+      "id": 297,
+      "municipio": "SAN DIEGO",
+      "codigo": "1908",
+      "departamentoId": 19
+    },
+    {
+      "id": 298,
+      "municipio": "LA UNION",
+      "codigo": "1909",
+      "departamentoId": 19
+    },
+    {
+      "id": 299,
+      "municipio": "HUITE",
+      "codigo": "1910",
+      "departamentoId": 19
+    },
+    {
+      "id": 300,
+      "municipio": "CHIQUIMULA",
+      "codigo": "2001",
+      "departamentoId": 20
+    },
+    {
+      "id": 301,
+      "municipio": "SAN JOSE LA ARADA",
+      "codigo": "2002",
+      "departamentoId": 20
+    },
+    {
+      "id": 302,
+      "municipio": "SAN JUAN LA ERMITA",
+      "codigo": "2003",
+      "departamentoId": 20
+    },
+    {
+      "id": 303,
+      "municipio": "JOCOTAN",
+      "codigo": "2004",
+      "departamentoId": 20
+    },
+    {
+      "id": 304,
+      "municipio": "CAMOTAN",
+      "codigo": "2005",
+      "departamentoId": 20
+    },
+    {
+      "id": 305,
+      "municipio": "OLOPA",
+      "codigo": "2006",
+      "departamentoId": 20
+    },
+    {
+      "id": 306,
+      "municipio": "ESQUIPULAS",
+      "codigo": "2007",
+      "departamentoId": 20
+    },
+    {
+      "id": 307,
+      "municipio": "CONCEPCION LAS MINAS",
+      "codigo": "2008",
+      "departamentoId": 20
+    },
+    {
+      "id": 308,
+      "municipio": "QUEZALTEPEQUE",
+      "codigo": "2009",
+      "departamentoId": 20
+    },
+    {
+      "id": 309,
+      "municipio": "SAN JACINTO",
+      "codigo": "2010",
+      "departamentoId": 20
+    },
+    {
+      "id": 310,
+      "municipio": "IPALA",
+      "codigo": "2011",
+      "departamentoId": 20
+    },
+    {
+      "id": 311,
+      "municipio": "JALAPA",
+      "codigo": "2101",
+      "departamentoId": 21
+    },
+    {
+      "id": 312,
+      "municipio": "SAN PEDRO PINULA",
+      "codigo": "2102",
+      "departamentoId": 21
+    },
+    {
+      "id": 313,
+      "municipio": "SAN LUIS JILOTEPEQUE",
+      "codigo": "2103",
+      "departamentoId": 21
+    },
+    {
+      "id": 314,
+      "municipio": "SAN MANUEL CHAPARRON",
+      "codigo": "2104",
+      "departamentoId": 21
+    },
+    {
+      "id": 315,
+      "municipio": "SAN CARLOS ALZATATE",
+      "codigo": "2105",
+      "departamentoId": 21
+    },
+    {
+      "id": 316,
+      "municipio": "MONJAS",
+      "codigo": "2106",
+      "departamentoId": 21
+    },
+    {
+      "id": 317,
+      "municipio": "MATAQUESCUINTLA",
+      "codigo": "2107",
+      "departamentoId": 21
+    },
+    {
+      "id": 318,
+      "municipio": "JUTIAPA",
+      "codigo": "2201",
+      "departamentoId": 22
+    },
+    {
+      "id": 319,
+      "municipio": "EL PROGRESO",
+      "codigo": "2202",
+      "departamentoId": 22
+    },
+    {
+      "id": 320,
+      "municipio": "SANTA CATARINA MITA",
+      "codigo": "2203",
+      "departamentoId": 22
+    },
+    {
+      "id": 321,
+      "municipio": "AGUA BLANCA",
+      "codigo": "2204",
+      "departamentoId": 22
+    },
+    {
+      "id": 322,
+      "municipio": "ASUNCION MITA",
+      "codigo": "2205",
+      "departamentoId": 22
+    },
+    {
+      "id": 323,
+      "municipio": "YUPILTEPEQUE",
+      "codigo": "2206",
+      "departamentoId": 22
+    },
+    {
+      "id": 324,
+      "municipio": "ATESCATEMPA",
+      "codigo": "2207",
+      "departamentoId": 22
+    },
+    {
+      "id": 325,
+      "municipio": "JEREZ",
+      "codigo": "2208",
+      "departamentoId": 22
+    },
+    {
+      "id": 326,
+      "municipio": "EL ADELANTO",
+      "codigo": "2209",
+      "departamentoId": 22
+    },
+    {
+      "id": 327,
+      "municipio": "ZAPOTITLAN",
+      "codigo": "2210",
+      "departamentoId": 22
+    },
+    {
+      "id": 328,
+      "municipio": "COMAPA",
+      "codigo": "2211",
+      "departamentoId": 22
+    },
+    {
+      "id": 329,
+      "municipio": "JALPATAGUA",
+      "codigo": "2212",
+      "departamentoId": 22
+    },
+    {
+      "id": 330,
+      "municipio": "CONGUACO",
+      "codigo": "2213",
+      "departamentoId": 22
+    },
+    {
+      "id": 331,
+      "municipio": "MOYUTA",
+      "codigo": "2214",
+      "departamentoId": 22
+    },
+    {
+      "id": 332,
+      "municipio": "PASACO",
+      "codigo": "2215",
+      "departamentoId": 22
+    },
+    {
+      "id": 333,
+      "municipio": "SAN JOSE ACATEMPA",
+      "codigo": "2216",
+      "departamentoId": 22
+    },
+    {
+      "id": 334,
+      "municipio": "QUESADA",
+      "codigo": "2217",
+      "departamentoId": 22
+    }
+  ]
+
+}

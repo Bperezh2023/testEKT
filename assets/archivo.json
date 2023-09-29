@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "Nombre": "Bryan",
+    "ApellidoPaterno": "Perez",
+    "ApellidoMaterno": "Higueros",
+    "Division": "Elektra",
+    "Correo": "bperezh7@elektra.com.gt"
+  },
+  {
+    "id": 1,
+    "Nombre": "Carlos",
+    "ApellidoPaterno": "Lopez",
+    "ApellidoMaterno": "Higueros",
+    "Division": "Elektra",
+    "Correo": "bperezh7@elektra.com.gt"
+  },
+  {
+    "id": 2,
+    "Nombre": "Mynor",
+    "ApellidoPaterno": "Cabrera",
+    "ApellidoMaterno": "Higueros",
+    "Division": "Elektra",
+    "Correo": "bperezh7@elektra.com.gt"
+  },
+  {
+    "id": 3,
+    "Nombre": "Abner",
+    "ApellidoPaterno": "Perez",
+    "ApellidoMaterno": "Higueros",
+    "Division": "Elektra",
+    "Correo": "bperezh7@elektra.com.gt"
+  }
+]

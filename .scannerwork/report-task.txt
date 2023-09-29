@@ -1,0 +1,6 @@
+projectKey=AppMovillTK
+serverUrl=http://10.48.210.104:7000
+serverVersion=9.9.0.65466
+dashboardUrl=http://10.48.210.104:7000/dashboard?id=AppMovillTK
+ceTaskId=AYa3629bvgQz64GVsfPj
+ceTaskUrl=http://10.48.210.104:7000/api/ce/task?id=AYa3629bvgQz64GVsfPj
